@@ -1,16 +1,17 @@
-## Hi there 👋
+# eraevous
 
-<!--
-**eraevous/eraevous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **We are building Cognitive Augmentation.**
+> Every project here is judged by one question: does it increase a person's capacity to realise their intentions?
 
-Here are some ideas to get you started:
+**Kairos** is my umbrella for that work: tools, the environment that coordinates the people and AI agents who build them, and the research behind both. Start at **[KAIROS](https://github.com/eraevous/KAIROS)**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | What it does |
+|---|---|
+| [Telosmith](https://github.com/eraevous/Telosmith) | Keeps the reasons attached to code, and flags claims that need reassessing |
+| [relay-kit](https://github.com/eraevous/relay-kit) | Handoffs between AI models, with authorization, provenance and an append-only decision ledger |
+| [Lydian](https://github.com/eraevous/Lydian) | One shared test kit and CI that every repo runs |
+| [Fathom](https://github.com/eraevous/Fathom) | Understand your data before deciding what to do with it; offline, rules printed beside every finding |
+| [QAT-Kits](https://github.com/eraevous/QAT-Kits) | Prompt tools for thinking: StressTest, TruthWeight, FrameShift and more |
+| [crank-mem-eval](https://github.com/eraevous/crank-mem-eval) | Project memory for coding agents, built from Chris Liva's crank-mem |
+
+[![XERJ Corpus Hub contributor](https://hub.xerj.org/contributors/eraevous/badge.svg)](https://hub.xerj.org/contributors/eraevous)
